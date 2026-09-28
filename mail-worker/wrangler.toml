@@ -6,9 +6,6 @@ keep_vars = true
 [observability]
 enabled = true
 
-[ai]
-binding = "ai"
-
 [[d1_databases]]
 binding = "db"
 database_id = "d153c479-db56-4a65-b9c5-2b4ceb6646dc"
